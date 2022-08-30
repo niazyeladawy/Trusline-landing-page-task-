@@ -6,7 +6,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
     direction: rtl;
 }
-a{
+a,h1,h2,h3,h4,p,button{
   font-family: 'Cairo', sans-serif !important;
 }
 
