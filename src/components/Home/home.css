@@ -1,0 +1,11 @@
+#home .home-content h1{
+    font-size: 4.375rem;
+}
+#home .home-content p{
+    font-size: 1.563rem;
+    color: #E1E1E1;
+}
+#home .home-content button{
+    background-color: var( --main-color);
+    font-size: 1.875rem;
+}

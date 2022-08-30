@@ -1,0 +1,48 @@
+#why .item{
+    border-radius: 20px;
+}
+#why .item h3{
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+#why .item p{
+    color:#E7E7E7;
+    font-size: 1.375;
+}
+#why .item1{
+    text-align: center;
+    background-color: #763BBF;
+    height: 250px;
+}
+#why .item2{
+    background-color: #152F4B;
+}
+#why .item3{
+    background: #51B4FF;
+}
+#why .item4{
+    background: #351D4F;
+
+}
+#why .programs .program{
+    width: fit-content;
+    font-weight: 700;
+    border-radius: 10px;
+}
+#why .programs .program span{
+    font-size: 1.563rem;
+}
+#why .programs .program1{
+    background: rgba(246, 246, 246, 0.6);
+   
+}
+#why .programs .program2
+{
+    background: rgba(246, 246, 246, 0.8);
+}
+#why .programs .program3{
+    background: rgba(246, 246, 246, 1);
+    position: absolute;
+    top: 50%;
+    transform: translate(-50px,-50%);
+}

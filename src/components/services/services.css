@@ -1,0 +1,38 @@
+#services {
+    background: linear-gradient(180deg, #000000 50%, #ffffff 50%);
+}
+#services .services-content{
+    border-radius: 20px;
+}
+#services .section-head  h2{
+    color: #201F1F !important;
+}
+#services .section-head  p{
+    color: #201F1F;
+}
+#services .services-content{
+    padding-right: 70px;
+    padding-left: 70px;
+}
+#services .service-item {
+    background-color: #F8F8F8;
+    border-radius: 15px;
+    padding:50px 30px;
+}
+#services .vLine{
+    background-color: var(--main-color);
+    width: 1px;
+    height: auto;
+}
+#services .service-icon {
+    padding-top: 20px;
+}
+#services .service-icon h4{
+    color: var(--main-color);
+    font-weight: bold;
+    font-size: 1.813rem;
+}
+#services .service-item p{
+    color: #8B8B8B;
+    font-size: 1.438rem;
+}

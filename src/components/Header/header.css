@@ -1,0 +1,9 @@
+.nav-link {
+   font-size:  1.5rem !important;
+   font-family: 'Cairo', sans-serif;
+}
+@media screen and (max-width:992px) {
+  .nav-item{
+   text-align: center;
+  }
+}

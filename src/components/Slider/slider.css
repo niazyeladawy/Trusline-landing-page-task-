@@ -1,0 +1,31 @@
+.slideritem {
+    background-color: #F8F8F8;
+
+    padding: 30px;
+    height: 250px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.slideritem img {
+    display: inline;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    color: #842EB3 !important;
+
+}
+
+.slick-list {
+    margin: 0 -5px;
+}
+
+.slick-slide>div {
+    padding: 0 5px;
+}
+@media screen and (max-width:1200px) {
+    .slick-prev, .slick-next{
+        display: none !important;
+    }
+}

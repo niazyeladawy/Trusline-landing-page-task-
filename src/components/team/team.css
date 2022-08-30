@@ -1,0 +1,42 @@
+#team .team-firstover {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: #763BBF;
+    mix-blend-mode: hard-light
+}
+
+#team .team-secondover {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: #019FFE;
+    mix-blend-mode: hard-light
+}
+
+#team .section-head h2 {
+    color: #4F4F4F;
+
+}
+
+#team .section-head {
+    background-color: #F8F8F8;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    height: fit-content;
+    padding: 100px 15px;
+}
+
+#team .section-head p {
+    color: #4F4F4F;
+}
+
+@media screen and (max-width:992px) {
+    #team .section-head{
+        border-radius: 15px;
+    }
+}

@@ -1,0 +1,15 @@
+footer p{
+    font-size: 1.25rem;
+}
+footer ul li a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #ffffff;
+}
+
+@media screen and (max-width:768px) {
+   footer .footer-content{
+        flex-direction: column  ;
+        text-align: center;
+    }
+}
